@@ -1,0 +1,8 @@
+PROVA DE COBOL                                 RELACAO CADASTRO DE VENDEDOR                     PAGINA :   1
+
+CODIGO        CPF             NOME VENDEDOR                             LATITUDE        LONGITUDE
+======        ====            ===========                               ========        =========
+
+111      934.638.048-91  VENDEDOR - 1 NOME ALTERADO                 023,23222222   046,54545454
+333      130.105.368-60  CLIENTE INCLUIDO NOVAMENTE PARA TESTES     123,66666666   124,65655665
+TOTAL LIDOS : 002     TOTAL SELECIONADOS : 002

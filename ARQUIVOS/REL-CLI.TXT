@@ -1,0 +1,10 @@
+PROVA DE COBOL                                 RELACAO CADASTRO DE CLIENTES                     PAGINA :   1
+
+CODIGO        CNPJ            RAZAO SOCIAL                              LATITUDE        LONGITUDE   VENDEDOR
+======        ====            ===========                               ========        =========   ========
+
+1111111  46.755.690/0001-90  CLIENTE NUMERO 1                           023,21111110   046,32222220    000
+2222222  33.050.196/0001-88  CLIENTE NUMERO 2                           111,00000000   222,00000000    000
+3333333  56.642.960/0009-67  CLIENTE NUMERO 3                           023,55555550   044,88888880    000
+
+TOTAL LIDOS : 003     TOTAL SELECIONADOS : 003
